@@ -1,0 +1,1 @@
+# dodajemy_komentarz_do_skryptu
